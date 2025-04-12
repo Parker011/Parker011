@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Parker011
-- 👀 I’m interested in building upon the connection between tech and philosophy. 
+- 👀 I’m interested in connecting AI and philosophy.
 - 🌱 I’m currently planning on producing my first chatbot.
 - 💞️ I’m looking to collaborate on pretty much anything if you can convince me well enough.
 - 📫 How to reach me: pmoreau@patriots.uttyler.edu
