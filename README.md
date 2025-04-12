@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Parker011
-- 👀 I’m interested in artificial intelligence, game design, and quantum computing.
-- 🌱 I’m currently learning database design and query languages.
+- 👀 I’m interested in building upon the connection between tech and philosophy. 
+- 🌱 I’m currently planning on producing my first chatbot.
 - 💞️ I’m looking to collaborate on pretty much anything if you can convince me well enough.
 - 📫 How to reach me: pmoreau@patriots.uttyler.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: In the past I learned German, but I haven't used it in years!
+- ⚡ Fun fact: I've started a game design project before and it made it well into alpha testing!
 
 <!---
 Parker011/Parker011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
